@@ -1,2 +1,14 @@
-# DIO_Data-_Engineer
-Exercises, Tests and Projects
+# Data Engineer
+- Exercises, Tests and Projects from Digital Inovation One
+- Python
+- PostgreSQL
+- MongoDB NoSQL
+- Docker
+- Linux
+- Hadoop
+- Big Data
+- Data Mining
+- AWS Cloud
+- Spark
+- Hive and Impala
+- Systems architecture
